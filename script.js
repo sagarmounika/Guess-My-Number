@@ -1,7 +1,7 @@
 'use strict';
 let randomNumber = Math.trunc(Math.random() * 20 + 1);
 let score = 20;
-console.log(randomNumber);
+
 let message = document.querySelector('.message');
 let highscore = 0;
 document.querySelector('.again').addEventListener('click', () => {
