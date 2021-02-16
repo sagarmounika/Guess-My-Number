@@ -1,6 +1,10 @@
 'use strict';
 let randomNumber = Math.trunc(Math.random() * 20 + 1);
 let score = 20;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8990d83274ffabefde6c0fb3e6af61281256367b
 let message = document.querySelector('.message');
 let highscore = 0;
 
